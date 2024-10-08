@@ -1,0 +1,180 @@
+{
+  "seller": [
+    {
+      "id": "8202",
+      "name": "Anas Suheb",
+      "email": "anas@seller.com",
+      "password": "abcd"
+    },
+    {
+      "id": "f462",
+      "name": "mohd Suheb",
+      "email": "mohd@seller.com",
+      "password": "abcd"
+    },
+    {
+      "id": "4314",
+      "name": "xyz",
+      "password": "abc123",
+      "email": "test@test.com"
+    },
+    {
+      "id": "e02e",
+      "name": "xyzw",
+      "password": "abc123q",
+      "email": "test1@test.com"
+    },
+    {
+      "id": "8448",
+      "name": "anas",
+      "password": "anas123",
+      "email": "anas@test.com"
+    },
+    {
+      "id": "7d0a",
+      "name": "peter",
+      "password": "abs123",
+      "email": "peter@test.com"
+    },
+    {
+      "id": "2056",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "b862",
+      "name": "abcd",
+      "password": "abcd1234",
+      "email": "abcd@gmail.com"
+    },
+    {
+      "id": "e822",
+      "name": "abcd",
+      "password": "abcd1234",
+      "email": "abcd@gmail.com"
+    },
+    {
+      "id": "e63c",
+      "name": "abcd",
+      "password": "abcd1234",
+      "email": "abcd@gmail.com"
+    },
+    {
+      "id": "3caf",
+      "name": "abcd",
+      "password": "abcd1234",
+      "email": "abcd@gmail.com"
+    },
+    {
+      "id": "8148",
+      "name": "abcd",
+      "password": "abcd1234",
+      "email": "abcd@gmail.com"
+    },
+    {
+      "id": "f91c",
+      "name": "abcd",
+      "password": "abcd1234",
+      "email": "abcd@gmail.com"
+    },
+    {
+      "id": "b113",
+      "name": "abcd",
+      "password": "abcd1234",
+      "email": "abcd@gmail.com"
+    },
+    {
+      "id": "99ac",
+      "name": "anass",
+      "password": "asdf1234",
+      "email": "anasss@gmail.com"
+    },
+    {
+      "id": "6528",
+      "name": "anass",
+      "password": "asdf1234",
+      "email": "anasss@gmail.com"
+    },
+    {
+      "id": "b9ff",
+      "name": "anass",
+      "password": "asdf1234",
+      "email": "anasss@gmail.com"
+    },
+    {
+      "id": "5327",
+      "name": "anass",
+      "password": "asdf1234",
+      "email": "anasss@gmail.com"
+    },
+    {
+      "id": "550c",
+      "name": "anass",
+      "password": "asdf1234",
+      "email": "anasss@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "name": "Iphone 15",
+      "price": "70000",
+      "category": "Mobile",
+      "color": "Blue",
+      "description": "best iphone till date",
+      "image": "https://m.media-amazon.com/images/I/71d7rfSl0wL._AC_UF1000,1000_QL80_.jpg",
+      "id": "408d"
+    },
+    {
+      "id": "a9e4",
+      "name": "Dell laptop",
+      "price": "70000",
+      "category": "Laptop",
+      "color": "black",
+      "description": "Best",
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/g-series/g16-7630/media-gallery/black/notebook-g16-7630-nt-black-gallery-1.psd?fmt=pjpg&pscan=auto&scl=1&wid=3500&hei=2625&qlt=100,1&resMode=sharp2&size=3500,2625&chrss=full&imwidth=5000"
+    },
+    {
+      "id": "8242",
+      "name": "Samsung S23 Ultra",
+      "price": "100000",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "Phone",
+      "image": "https://images.samsung.com/in/smartphones/galaxy-s24-ultra/images/galaxy-s24-ultra-highlights-color-titanium-gray-back-mo.jpg?imbypass=true"
+    },
+    {
+      "id": "cee9",
+      "name": "Mouse",
+      "price": "1000",
+      "category": "mouse",
+      "color": "black",
+      "description": "mouse",
+      "image": "https://redragon.in/cdn/shop/collections/B079DY7GGB.MAIN.jpg?v=1623067062"
+    }
+  ],
+  "users": [
+    {
+      "id": "3514",
+      "name": "anas",
+      "email": "anass@test.com",
+      "password": "abc123"
+    },
+    {
+      "id": "4fe8",
+      "name": "Anas Suheb",
+      "email": "anas@gmail.com",
+      "password": "qwer1234"
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "id": "b71d",
+      "address": "afedfewwedsv",
+      "contact": "8726126098",
+      "totalPrice": 170100,
+      "userId": "4fe8"
+    }
+  ]
+}
